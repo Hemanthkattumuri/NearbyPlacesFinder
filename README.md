@@ -26,10 +26,10 @@ It fetches nearby places data from the **Nominatim API** and displays them as ma
 ## 📷 Screenshots
 
 Map view showing user location:
-![Map](screenshots/map.png)
+![Map](https://1drv.ms/i/c/d7ec09cbbee826be/EWs6jGGa81BMlIv7vKZ5Y6MBcAcj3JT8K_wQFTeAyz-QwQ?e=lhR6JK)
 
 Nearby places with markers:
-![Markers](screenshots/markers.png)
+![Markers](https://1drv.ms/i/c/d7ec09cbbee826be/EU46TOzEK_pKr8RwrB_vb6cBLB3ATm4KmcwQPmEmU4Ivog?e=zd6cy1)
 
 
 ---
