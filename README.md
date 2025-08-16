@@ -21,15 +21,17 @@ It fetches nearby places data from the **Nominatim API** and displays them as ma
 - **API:** Nominatim (OpenStreetMap Search API)  
 - **Location:** FusedLocationProviderClient (GPS)
 
+
 ---
 
 ## 📷 Screenshots
 
 Map view showing user location:
-![Map](https://1drv.ms/i/c/d7ec09cbbee826be/EWs6jGGa81BMlIv7vKZ5Y6MBcAcj3JT8K_wQFTeAyz-QwQ?e=lhR6JK)
+![Map](<img width="339" height="739" alt="map" src="https://github.com/user-attachments/assets/67d4cd7a-1679-4977-be6e-c1d3d44be7fa" />)
 
 Nearby places with markers:
-![Markers](https://1drv.ms/i/c/d7ec09cbbee826be/EU46TOzEK_pKr8RwrB_vb6cBLB3ATm4KmcwQPmEmU4Ivog?e=zd6cy1)
+![Markers](<img width="320" height="702" alt="markers" src="https://github.com/user-attachments/assets/8fb5e618-4519-45e6-912a-356dbe30aea6" />)
+
 
 
 ---
